@@ -1,26 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
-/*--------------------------------------------Layout for sticky footer */
-html, body {
-    height: 100%;
-    margin: 0;
-}
 
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.content {
-    flex: 1;
-}
-
-footer {
-    background: #f8f9fa;
-    padding: 20px 0;
-}
 
 
 /*--------------------------------------------Colors*/
@@ -202,7 +183,9 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
-}
+    padding: 50px;
+    text-align:center;
+    margin:auto;
 
 .cv-pdf i {
     font-size: 18px;
