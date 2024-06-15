@@ -2,6 +2,9 @@
 
 <h3 align="Sam's Digital CV ">Sam's Digital CV</h3>
 
+<a href="https://samanthajadewright.github.io/Digital-CV/" target="_blank">Link to Digital CV Project </a>
+
+
 </div>
 
 
