@@ -1,36 +1,36 @@
-<a name="readme-top Digital Profile Practice from Code Institute "></a>
+## 🚀 Sam's Digital CV
 
-<h3 align="Sam's Digital CV ">Sam's Digital CV</h3>
-
-<a href="https://samanthajadewright.github.io/Digital-CV/" target="_blank">Link to Digital CV Project </a>
+ <a href="https://samanthajadewright.github.io/Digital-CV/" target="_blank">Link to Digital CV Project </a>
 
 
-</div>
+---
 
+## 📌 About The Project
+This project was created as part of a learning experience with **Code Institute** to practice using **HTML, CSS, and Bootstrap** while experimenting with customization.
 
+### ⚠️ Disclaimer
+This is an **example project** for educational purposes. It is a **work-in-progress** and **not a fully functional or accurate website** at this stage.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>About The Project :</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>     
-  </ol>
-</details>
+---
 
+## What the pages show
 
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
 
-<!-- ABOUT THE PROJECT -->
-##  This project was set my Code institute to get familir with using HTML and CSS whilst using bootstrap and customisation.
+### 💼 Experience Section
+![Experience](screenshots/experience.png)
 
+### 📩 Contact Form
+![Contact](screenshots/contact.png)
 
+---
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🛠 Technologies Used
+- **HTML** - Structure of the site  
+- **CSS** - Styling and layout  
+- **Bootstrap** - Responsive design framework  
 
-* Code Institute -  Thank you to code institute for providing trainning modules, support and the assistance of mentors and cohort Facilitators.
-
-
+---
 
 
