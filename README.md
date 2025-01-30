@@ -16,13 +16,12 @@ This is an **example project** for educational purposes. It is a **work-in-progr
 ## What the pages show
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+
 
 ### 💼 Experience Section
-![Experience](screenshots/experience.png)
+
 
 ### 📩 Contact Form
-![Contact](screenshots/contact.png)
 
 ---
 
